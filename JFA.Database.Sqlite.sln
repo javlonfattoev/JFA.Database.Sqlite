@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JFA.Database.Sqlite", "JFA.Database.Sqlite\JFA.Database.Sqlite.csproj", "{E837A47E-9BDE-4B13-9C88-4AF2BEB5D2C6}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JFA.Database.Sample", "JFA.Database.Sample\JFA.Database.Sample.csproj", "{0AA8712B-E63C-4611-AC66-9C3B76A24029}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E837A47E-9BDE-4B13-9C88-4AF2BEB5D2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E837A47E-9BDE-4B13-9C88-4AF2BEB5D2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E837A47E-9BDE-4B13-9C88-4AF2BEB5D2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AA8712B-E63C-4611-AC66-9C3B76A24029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA8712B-E63C-4611-AC66-9C3B76A24029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA8712B-E63C-4611-AC66-9C3B76A24029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA8712B-E63C-4611-AC66-9C3B76A24029}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
