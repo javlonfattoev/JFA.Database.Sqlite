@@ -15,7 +15,6 @@
     <PackageTags>sqlite, orm, tool, database</PackageTags>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <ApplicationIcon>JFA.png</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
