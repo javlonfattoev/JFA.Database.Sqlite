@@ -9,13 +9,18 @@
     <Authors>Javlon Fattoev</Authors>
     <Company>JFA</Company>
     <Description>Simple object mapping tool for Sqlite, only for learning ORM purpose, not for package production projects</Description>
-    <PackageIcon>108656217.png</PackageIcon>
+    <PackageIcon>JFA.png</PackageIcon>
     <PackageProjectUrl>www.fattoev.uz/packages</PackageProjectUrl>
     <RepositoryUrl>https://github.com/javlonfattoev/JFA.Database.Sqlite</RepositoryUrl>
     <PackageTags>sqlite, orm, tool, database</PackageTags>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <ApplicationIcon>JFA.png</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="JFA.png" />
+  </ItemGroup>
 
   <ItemGroup>
     <None Include="..\LICENSE">
